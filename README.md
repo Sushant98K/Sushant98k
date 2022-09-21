@@ -1,3 +1,4 @@
+![logo](https://github.com/SushantK98/SushantK98/blob/main/BlackBanner.png)
 <h1 align="center">Hi 👋, my name is Sushant Kate</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5500&pause=1&vCenter=true&lines=I'm+a+Full-Stack+Developer;I'm+a+Front-end+Developer;I'm+a+Back-End+Developer;I'm+a+Web+Designer" alt="Typing SVG" /></a></h3>
 
@@ -9,7 +10,7 @@
 
 <p><img align="left" src="https://komarev.com/ghpvc/?username=sushantk98&label=Profile%20views&color=0e75b6&style=flat"
         alt="sushantk98" /> </p><br>
-<p align="left"> <a href="https://twitter.com/i_am_sushantk" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_sushantk?logo=twitter&style=flat" alt="i_am_sushantk" /></a> </p>        
+<p align="left"> <a href="https://twitter.com/Sushant98K" target="blank"><img src="https://img.shields.io/twitter/follow/Sushant98K?logo=twitter&style=flat" alt="Sushant98K" /></a> </p>        
 
 - 🌱 I’m currently learning **Full stack development**
 
@@ -20,8 +21,8 @@ world.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/i_am_sushantk" target="blank"><img align="center"
-            src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" alt="i_am_sushantk" height="40"
+    <a href="https://twitter.com/Sushant98K" target="blank"><img align="center"
+            src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" alt="Sushant98K" height="40"
             width="40" /></a>
     <a href="https://instagram.com/_toybreaker_" target="blank"><img align="center"
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png"

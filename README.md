@@ -97,11 +97,11 @@ world.**
 </p>
 
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=sushantk98&show_icons=true&locale=en&layout=compact"
-        alt="sushantk98" /></p>
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=Sushant98K&show_icons=true&locale=en&layout=compact"
+        alt="Sushant98K" /></p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=sushantk98&show_icons=true&locale=en"
-        alt="sushantk98" /></p>
+        src="https://github-readme-stats.vercel.app/api?username=Sushant98K&show_icons=true&locale=en"
+        alt="Sushant98K" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushant98K&" alt="sushant98k" /></p>

@@ -104,4 +104,4 @@ world.**
         src="https://github-readme-stats.vercel.app/api?username=sushantk98&show_icons=true&locale=en"
         alt="sushantk98" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantk98&" alt="Sushant98K" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushant98K&" alt="sushant98k" /></p>

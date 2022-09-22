@@ -55,8 +55,8 @@ world.**
 </div><br>
 <div align="center" style="display: inline_block">
   <a href="https://github.com/Sushant98K">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Sushant98K&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant98K&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sushant98K&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant98K&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)

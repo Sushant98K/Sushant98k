@@ -21,18 +21,22 @@ world.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <a href="https://linkedin.com/in/sushant98k" target="blank"><img align="center" 
+            src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
+            alt="sushant98k" height="30" width="30" /></a>
+    <a href="https://www.hackerrank.com/sushant98k" target="blank"><img align="center"
+            src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="sushant98k"
+            height="30" width="30" /></a>
     <a href="https://twitter.com/Sushant98K" target="blank"><img align="center"
             src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" alt="Sushant98K" height="40"
             width="40" /></a>
     <a href="https://instagram.com/_toybreaker_" target="blank"><img align="center"
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png"
             alt="_toybreaker_" height="30" width="30" /></a>
-    <a href="https://www.hackerrank.com/sushant98k" target="blank"><img align="center"
-            src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="sushant98k"
-            height="30" width="30" /></a>
     <a href="https://discord.gg/E3cjYkQ5sz" target="blank"><img align="center"
             src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png"
             alt="E3cjYkQ5sz" height="30" width="30" /></a>
+    
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

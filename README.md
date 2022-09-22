@@ -53,7 +53,7 @@ world.**
   <img align="center" alt="Rafa-Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
   <img align="center" alt="Rafa-Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 </div><br>
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/Sushant98K">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Sushant98K&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant98K&layout=compact&langs_count=7&theme=dark"/>

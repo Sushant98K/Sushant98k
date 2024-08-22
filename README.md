@@ -4,7 +4,7 @@
 
 <p><img align="left" src="https://komarev.com/ghpvc/?username=sushantk98&label=Profile%20views&color=0e75b6&style=flat"
         alt="sushantk98" /> </p><br>
-//<p align="left"> <a href="https://twitter.com/Sushant98K" target="blank"><img src="https://img.shields.io/twitter/follow/Sushant98K?logo=twitter&style=flat" alt="Sushant98K" /></a> </p>   //     
+//<p align="left"> <a href="https://twitter.com/Sushant98K" target="blank"><img src="https://img.shields.io/twitter/follow/Sushant98K?logo=twitter&style=flat" alt="Sushant98K" /></a> </p>    
 <img align="right" width="400"
         <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br></br>

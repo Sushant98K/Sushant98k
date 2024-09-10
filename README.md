@@ -1,6 +1,7 @@
 ![logo](https://github.com/SushantK98/SushantK98/blob/main/BlackBanner.png)
 <h1 align="center">Hi 👋, my name is Sushant Kate</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5500&pause=1&vCenter=true&lines=I'm+a+Full-Stack+Developer;I'm+a+Front-end+Developer;I'm+a+Back-End+Developer;I'm+a+Web+Designer" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5500&pause=1&vCenter=true&lines=I'm+a+Full-Stack+Developer;I'm+a+Front-end+Developer;I'm+a+Back-End+Developer;I'm+a+Web+Designer" alt="Typing SVG" /></a>
+</h3>
 
 <p><img align="left" src="https://komarev.com/ghpvc/?username=sushantk98&label=Profile%20views&color=0e75b6&style=flat"
         alt="sushantk98" /> </p><br>

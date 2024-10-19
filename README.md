@@ -20,7 +20,7 @@
 ##
 
 <div align="center"> 
-  <a href="mailto:sushant98k@gmail.com">
+  <a href="https://leetcode.com/u/ToyBreaker/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/sushant-kate/" target="_blank">

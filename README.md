@@ -87,14 +87,14 @@ Software Development Engineer with hands-on experience delivering **end-to-end f
 
 | Domain | Progress | Details |
 |:---|:---:|:---|
-| **Backend Development** | ![85%](https://progress-bar.xyz/85?title=85%25&color=7c3aed&width=180) | Django · Node.js · Express.js · PostgreSQL · MySQL · MongoDB |
-| **API Engineering** | ![80%](https://progress-bar.xyz/80?title=80%25&color=6d28d9&width=180) | FastAPI · REST APIs · JWT Auth · OAuth · RBAC |
-| **Authentication & Security** | ![80%](https://progress-bar.xyz/80?title=80%25&color=6d28d9&width=180) | JWT · OAuth · RBAC · Protected Routes · Session Management |
-| **Frontend Development** | ![70%](https://progress-bar.xyz/70?title=70%25&color=4f46e5&width=180) | React · TypeScript · Redux · Tailwind CSS · Framer Motion |
-| **Database Engineering** | ![70%](https://progress-bar.xyz/70?title=70%25&color=4f46e5&width=180) | MySQL · PostgreSQL · MongoDB · Query Optimization |
-| **Mobile Development** | ![70%](https://progress-bar.xyz/70?title=70%25&color=4f46e5&width=180) | React Native · Expo |
-| **Cloud & Deployment** | ![60%](https://progress-bar.xyz/60?title=60%25&color=3730a3&width=180) | AWS Essentials · Vercel · Netlify · CI/CD Pipelines |
-| **System Design** | ![60%](https://progress-bar.xyz/60?title=60%25&color=3730a3&width=180) | Scalable Architecture · RESTful Design · Agile/Scrum |
+| **Backend Development** | ![85%](https://progress-bar.xyz/85?color=7c3aed&width=180) | Django · Node.js · Express.js · PostgreSQL · MySQL · MongoDB |
+| **API Engineering** | ![80%](https://progress-bar.xyz/80?color=6d28d9&width=180) | FastAPI · REST APIs · JWT Auth · OAuth · RBAC |
+| **Authentication & Security** | ![80%](https://progress-bar.xyz/80?color=6d28d9&width=180) | JWT · OAuth · RBAC · Protected Routes · Session Management |
+| **Frontend Development** | ![70%](https://progress-bar.xyz/70?color=4f46e5&width=180) | React · TypeScript · Redux · Tailwind CSS · Framer Motion |
+| **Database Engineering** | ![70%](https://progress-bar.xyz/70?color=4f46e5&width=180) | MySQL · PostgreSQL · MongoDB · Query Optimization |
+| **Mobile Development** | ![70%](https://progress-bar.xyz/70?color=4f46e5&width=180) | React Native · Expo |
+| **Cloud & Deployment** | ![60%](https://progress-bar.xyz/60?color=3730a3&width=180) | AWS Essentials · Vercel · Netlify · CI/CD Pipelines |
+| **System Design** | ![60%](https://progress-bar.xyz/60?color=3730a3&width=180) | Scalable Architecture · RESTful Design · Agile/Scrum |
 
 </div>
 

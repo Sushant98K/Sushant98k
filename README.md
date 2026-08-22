@@ -14,7 +14,7 @@
 
 ![Location](https://img.shields.io/badge/📍_Mumbai,_India-1e1b4b?style=flat-square&labelColor=1e1b4b&color=7c3aed)
 ![Status](https://img.shields.io/badge/Currently_Employed-Restaverse-22c55e?style=flat-square&logo=briefcase&logoColor=white)
-![Role](https://img.shields.io/badge/SDE-Software_Development_Engineer-4f46e5?style=flat-square&logo=code&logoColor=white)
+![Role](https://img.shields.io/badge/SDE_1-Software_Development_Engineer-4f46e5?style=flat-square&logo=code&logoColor=white)
 
 </div>
 

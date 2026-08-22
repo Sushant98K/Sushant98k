@@ -87,10 +87,11 @@ Software Development Engineer with hands-on experience delivering **end-to-end f
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| **Frontend Development** | ████████░░ 80% | React, TypeScript, Redux, Tailwind CSS, Framer Motion |
-| **Backend Development** | ███████░░░ 70% | Django, Node.js, Express.js, FastAPI, REST APIs |
+| **Backend Development** | ████████▌░ 85% | Django, Node.js, Express.js, PostgreSQL, MySQL, MongoDB |
+| **API Engineering** | ████████░░ 80% | FastAPI, REST APIs, JWT Auth, OAuth, RBAC |
+| **Authentication & Security** | ████████░░ 80% | JWT, OAuth, RBAC, Protected Routes, Session Management |
+| **Frontend Development** | ███████░░░ 70% | React, TypeScript, Redux, Tailwind CSS, Framer Motion |
 | **Database Engineering** | ███████░░░ 70% | MySQL, PostgreSQL, MongoDB, Query Optimization |
-| **Authentication & Security** | ████████░░ 80% | JWT, OAuth, RBAC, Protected Routes |
 | **Cloud & Deployment** | ██████░░░░ 60% | AWS Essentials, Vercel, Netlify, CI/CD Pipelines |
 | **System Design** | ██████░░░░ 60% | Scalable Architecture, RESTful Design, Agile/Scrum |
 | **Mobile Development** | █████░░░░░ 50% | React Native, Expo |

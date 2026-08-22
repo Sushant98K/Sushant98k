@@ -94,7 +94,7 @@ Software Development Engineer with hands-on experience delivering **end-to-end f
 | **Database Engineering** | ███████░░░ 70% | MySQL, PostgreSQL, MongoDB, Query Optimization |
 | **Cloud & Deployment** | ██████░░░░ 60% | AWS Essentials, Vercel, Netlify, CI/CD Pipelines |
 | **System Design** | ██████░░░░ 60% | Scalable Architecture, RESTful Design, Agile/Scrum |
-| **Mobile Development** | █████░░░░░ 50% | React Native, Expo |
+| **Mobile Development** | ███████░░░ 70% | React Native, Expo |
 
 </div>
 
